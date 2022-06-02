@@ -3,12 +3,12 @@ const numCircles = 10;
 function setup() {
   // put setup code here
   createCanvas(500, 500);
+  phase0();
+  phase1();
 }
 
 function draw() {
   // put drawing code here
-  phase0();
-  phase1();
 }
 
 function phase0 () {
