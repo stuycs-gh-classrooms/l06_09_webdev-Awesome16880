@@ -3,6 +3,7 @@ const numCircles = 10;
 function setup() {
   // put setup code here
   createCanvas(500, 500);
+  background(#654321); //snug brown
   phase0();
   phase1();
 }
